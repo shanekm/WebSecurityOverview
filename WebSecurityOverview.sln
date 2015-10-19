@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSecurityOverview", "WebSecurityOverview\WebSecurityOverview.csproj", "{5D54C061-9CE9-477D-A281-A461F5A2916E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{18B5AC85-92B5-4839-8E4E-FD1C5B5EB618}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinImplementation", "OwinImplementation\OwinImplementation.csproj", "{CC93CDF1-3EC2-44E2-B81B-7647245F7104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaIntro", "KatanaIntro\KatanaIntro.csproj", "{131F06CC-4888-42BB-9037-2B307973B52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D54C061-9CE9-477D-A281-A461F5A2916E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D54C061-9CE9-477D-A281-A461F5A2916E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D54C061-9CE9-477D-A281-A461F5A2916E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D54C061-9CE9-477D-A281-A461F5A2916E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC93CDF1-3EC2-44E2-B81B-7647245F7104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC93CDF1-3EC2-44E2-B81B-7647245F7104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC93CDF1-3EC2-44E2-B81B-7647245F7104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC93CDF1-3EC2-44E2-B81B-7647245F7104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131F06CC-4888-42BB-9037-2B307973B52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131F06CC-4888-42BB-9037-2B307973B52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131F06CC-4888-42BB-9037-2B307973B52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131F06CC-4888-42BB-9037-2B307973B52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
